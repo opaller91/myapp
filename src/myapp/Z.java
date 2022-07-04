@@ -1,7 +1,10 @@
 package myapp;
 
 public class Z {
-   public Z(){
 
-   }
+
+    public Z(){
+
+    }
+
 }
